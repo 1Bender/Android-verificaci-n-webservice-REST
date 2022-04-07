@@ -5,3 +5,6 @@ Dentro de la memoria se puede encontrar una pequeña explicación sobre el desar
 En esta primera versión encontramos una aplicación que se comunica con un webservice, que nos entregara un objeto JSON, y valida el login de
 un usuario, buscando coincidencias entre el usuario y la contraseña pasada como parámetro al webservice a través de la aplicación. Se utiliza
 arquitectura REST y gestión de hilos asíncronos con ExecutorService.
+
+Recursos y agradecimientos.
+Imagen portada: <a href="https://www.freepik.es/vectores/clave">Vector de clave creado por storyset - www.freepik.es</a>
