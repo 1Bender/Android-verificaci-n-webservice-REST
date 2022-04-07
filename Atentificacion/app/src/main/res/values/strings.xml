@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atentificacion</string>
+    <string name="Denegado">Acceso denegado.\nRevise los datos introducidos.</string>
+
+</resources>
